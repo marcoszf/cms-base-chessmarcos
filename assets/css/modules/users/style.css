@@ -1,0 +1,13 @@
+#content-users-form-insert{
+	width: 90%;
+	margin: 0 auto;
+}
+#msgMainUser{
+	margin:  10px 0;
+}
+#content-users-form-insert div.control-group, #content-users-form-insert{
+	margin-top: 10px;
+}
+#content-users-list{
+	margin-top: 10px;
+}
